@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EZ80VEGA
+- 👋 Hi, I’m Ezequiel Vega
 - 👀 I’m interested in becoming a data analyst. 
 - 🌱 I’m currently learning python for data analysis.
 - 💞️ I’m looking to collaborate on smaller projects.
