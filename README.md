@@ -28,3 +28,5 @@ To reinforce that I have taken the time to further my learning here are my achie
 
 ## Contact
 Email: ezequiel80vega@gmail.com
+
+LinkedIn: (https://linkedin.com/in/evegaj)
