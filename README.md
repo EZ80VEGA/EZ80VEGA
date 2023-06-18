@@ -18,9 +18,12 @@ Thanks for checking it out!
 - [Certificates](#certificates)
 - [Contact](#contact)
 
-## Projects
+## Portfolio Projects
 In order to exemplify what I have learned here I try to apply those newly learned skills.
 
+### Instagram Clone Challenge
+
+**Code:** [ig_challenges.sql](https://github.com/ez80vega/ez80vega/blob/main/ig_challenges.sql)
 ## Certificates
 To reinforce that I have taken the time to further my learning here are my achievements.
 
