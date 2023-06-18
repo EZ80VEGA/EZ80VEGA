@@ -23,6 +23,8 @@ In order to exemplify what I have learned here I try to apply those newly learne
 
 ### Instagram Clone Challenge
 
+This was the main project for 'The Ultimate MySQL Bootcamp' where we try and replicate the basics for an Instagram like app. All the skills learned within the course were practiced here. From creating a database to creating and referencing tables as well as creating individual lines of code to answer a specific question. 
+
 **Code:** [ig_challenges.sql](https://github.com/EZ80VEGA/EZ80VEGA/blob/412ea5894fc937fef53b414e7a6792d1419cc9ef/ig_challenges%20.sql)
 ## Certificates
 To reinforce that I have taken the time to further my learning here are my achievements.
