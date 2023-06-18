@@ -23,7 +23,7 @@ In order to exemplify what I have learned here I try to apply those newly learne
 
 ### Instagram Clone Challenge
 
-**Code:** [ig_challenges.sql](https://github.com/ez80vega/ez80vega/blob/main/ig_challenges.sql)
+**Code:** [ig_challenges.sql](https://github.com/EZ80VEGA/EZ80VEGA/blob/412ea5894fc937fef53b414e7a6792d1419cc9ef/ig_challenges%20.sql)
 ## Certificates
 To reinforce that I have taken the time to further my learning here are my achievements.
 
@@ -33,3 +33,5 @@ To reinforce that I have taken the time to further my learning here are my achie
 Email: ezequiel80vega@gmail.com
 
 LinkedIn: https://linkedin.com/in/evegaj
+
+
